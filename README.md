@@ -2,7 +2,7 @@
 
 **I am an open source enthusiast and developer by passion.**
 
-![stats](https://github-readme-stats.vercel.app/api?username=BarbieCue&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BarbieCue?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ### My interests and in-depth skills
