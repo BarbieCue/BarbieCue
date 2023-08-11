@@ -1,21 +1,18 @@
-### Hi there, I'm René, glad you are here 👋
+### Hi there, I'm René, glad you are here
 
-**I am an open source enthusiast and developer by passion.**
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BarbieCue?cardType=github&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
+I am an open source enthusiast and developer by passion.
 
 
 ### My interests and in-depth skills
 
 - Feeling at home on the JVM (preferring Kotlin)
 - Test- and Buildautomation (preferring Gradle)
-- Software Architecture and API Design
+- Software Architecture and API Design, Versioning
 - Clean Code and TDD
 - Functional Programming
 - Parallel Programming
-- Virtualization like Kubernetes and Docker
-- DevOps topics like cloud provisioning and IAC with Terraform
-- Versioning
+- Virtualization techniques
+- DevOps topics like cloud provisioning and infrastructure as code
 
 
 ### Contact
