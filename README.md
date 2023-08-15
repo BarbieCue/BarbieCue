@@ -1,11 +1,11 @@
 ### Hi there, I'm René, glad you are here
 
-I am an open source enthusiast and developer by passion.
+I am an open source enthusiast and software developer by passion.
 
 
-### My interests and in-depth skills
+### My in-depth skills and interests
 
-- Feeling at home on the JVM (preferring Kotlin)
+- Very familiar with the JVM (preferring Kotlin)
 - Test- and Buildautomation (preferring Gradle)
 - Software Architecture and API Design, Versioning
 - Clean Code and TDD
